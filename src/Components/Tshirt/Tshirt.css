@@ -1,0 +1,19 @@
+.tshirt{
+    height: 400px;
+    background-color: blanchedalmond;
+    margin: 10px;
+    position: relative;
+}
+.tshirt img{
+    height: 200px;
+    margin-top: 10px;
+}
+.tshirt button{
+    width: 100%;
+    border: none;
+    padding: 20px;
+    background-color: orange;
+   position: absolute;
+   bottom: 0;
+   left: 0;
+}
